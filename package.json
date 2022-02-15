@@ -1,5 +1,5 @@
 {
-  "name": "object-flipper.js",
+  "name": "@monsieur-nico/object-flipper.js",
   "version": "1.0.0",
   "description": "",
   "main": "dist/src/index.js",
